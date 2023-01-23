@@ -7,7 +7,7 @@
 
 ### Authors
 1. Samuel Alemayehu
-2. 
+2.Kelvin Aryee 
 
 ### Tasks
 :memo:Task 0:
